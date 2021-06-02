@@ -24,23 +24,13 @@
 
 -----
 좋아하는 노래
-* Ariana Grande - One last time
-* One Direction - Live While We're Young
-* DAY 6 - Zombie
-* 스트레이키즈 - 끝나지 않을 이야기
-* 아이유 - 어푸
-
------
-2021년 1학기 수강 과목
-|과목|담당교수|학점|
-|---|---|---|
-|이산구조론|김유섭|3|
-|Active English|이재선|3|
-|사고와 표현|심재욱|3|
-|자바프로그래밍I|김진환|3|
-|컴퓨팅 사고와 문제해결-융합|양은샘|2|
-|합창|박병훈|2|
-|소프트웨어세미나I|김동회|1|
+|가수|제목|
+|---|---|
+|Ariana Grande|One Last Time|
+|One Direction|Live While We're Young|
+|DAY 6|Zombie|
+|스트레이키즈|끝나지 않을 이야기|
+|아이유|어푸|
 
 
 
