@@ -26,9 +26,9 @@
 좋아하는 노래
 * Ariana Grande - One last time
 * One Direction - Live While We're Young
+* DAY 6 - Zombie
 * 스트레이키즈 - 끝나지 않을 이야기
 * 아이유 - 어푸
-* DAY 6 - Zombie
 
 -----
 2021년 1학기 수강 과목
