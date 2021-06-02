@@ -30,6 +30,7 @@
 |One Direction|Live While We're Young|
 |DAY 6|Zombie|
 |BTS|Dynamite|
+|NCT 127|종이비행기|
 |스트레이키즈|끝나지 않을 이야기|
 |아이유|어푸|
 
