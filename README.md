@@ -29,9 +29,10 @@
 |Ariana Grande|One Last Time|
 |One Direction|Live While We're Young|
 |DAY 6|Zombie|
-|BTS|Dynamite|
+|BLACK PINK|Pretty Savage|
 |NCT 127|종이비행기|
 |NCT DREAM|같은 시간 같은 자리|
+|방탄소년단|Dynamite|
 |태연|U R|
 |스트레이키즈|끝나지 않을 이야기|
 |아이유|어푸|
