@@ -29,7 +29,7 @@
 |Ariana Grande|One Last Time|
 |One Direction|Live While We're Young|
 |DAY 6|Zombie|
-|BLACK PINK|Pretty Savage|
+|BLACKPINK|Pretty Savage|
 |NCT 127|종이비행기|
 |NCT DREAM|같은 시간 같은 자리|
 |방탄소년단|Dynamite|
