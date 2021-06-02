@@ -31,6 +31,8 @@
 |DAY 6|Zombie|
 |BTS|Dynamite|
 |NCT 127|종이비행기|
+|NCT DREAM|같은 시간 같은 자리|
+|태연|U R|
 |스트레이키즈|끝나지 않을 이야기|
 |아이유|어푸|
 
